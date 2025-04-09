@@ -36,7 +36,7 @@ Il a pour but de mettre en avant mes compétences et mes projets, et servira de 
 
 1. Clonez le dépôt :
    ```bash
-   git clone [URL_DU_DEPOT]
+   git clone https://github.com/Cylia-bel/Portfolio.git
    ```
 
 2. Installez les dépendances :
